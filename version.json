@@ -1,6 +1,6 @@
-   {
-     "version": "1.1.0",
-     "url": "https://github.com/frankkoabril/jarvis-releases/releases/download/v1.1.0/Jarvis-1.1.0.zip",
-     "sha256": "4d77fc2b3cf8522713e2a0240a8658b8ed04638380c0f92eca554e00085cdc46",
-     "notas": "Conversación más fluida y actualizaciones automáticas."
-   }
+{
+    "version":  "1.2.0",
+    "url":  "https://github.com/frankkoabril/jarvis-releases/releases/download/v1.2.0/Jarvis-1.2.0.zip",
+    "sha256":  "94dccb53d0df95a81270e5883ae4426feffefc8c79c74f51e78bb3e9915786b3",
+    "notas":  "Guarda documentos directo en Word y ya no se interrumpe"
+}
